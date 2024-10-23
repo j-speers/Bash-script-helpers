@@ -1,4 +1,4 @@
-# Linux-Scripts-Configs
+# Linux Scripts & Configurations
 
 This repository contains a collection of Bash scripts and configuration files for managing various Linux-based tasks. The scripts are designed to simplify automation, server management, and user environment setups.
 
